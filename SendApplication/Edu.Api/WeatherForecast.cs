@@ -1,6 +1,6 @@
 using System;
 
-namespace Edu.Application
+namespace Edu.Api
 {
     public class WeatherForecast
     {

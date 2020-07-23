@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Domain.Model.Enums
 {
-    enum Profile
+    public enum Profile
     {
         math, physics, biology, chemistry, literature, history
     }

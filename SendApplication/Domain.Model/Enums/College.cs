@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Domain.Model.Enums
 {
-    enum College
+    public enum College
     {
         KazATU, ENU, NU, KazGUU, KazNU, KBTU, IITU, SDU, AITU
     }

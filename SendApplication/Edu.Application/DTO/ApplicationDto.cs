@@ -1,11 +1,12 @@
-﻿using Domain.Model.Enums;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Domain.Model.Models
+using Domain.Model.Enums;
+
+namespace Edu.Application.DTO
 {
-    public class Application
+    public class ApplicationDto
     {
         public int Id { get; set; }
         public string Iin { get; set; }
